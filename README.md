@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+# Projeto "TikTok Clone" Jornada Dev EBAC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Links úteis: 
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💻 [Projeto Online](https://tiktok---jornada-b77e6.web.app/) <br>
+💿 [Link Vinil](https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/vinil.png?t=2023-05-22T19%3A39%3A28.772Z) <br>
+🎥 [Link Video 1](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-b77e6.appspot.com/o/Short%20End%20Of%20The%20Journey.mp4?alt=media&token=64822407-2983-4a07-bd49-6fe34eb5b109) <br>
+🎥 [Link Video 2](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-b77e6.appspot.com/o/Short%20Birth%20Of%20The%20New%20Dream.mp4?alt=media&token=abeab49b-33a7-484f-b95a-b175f101cd1b) <br>
+🎥 [Link Video 3](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-b77e6.appspot.com/o/Short%20Climb%20Ing%20Higher.mp4?alt=media&token=f1396292-12ea-44e9-a0e3-b08d1c5fb57c) <br>
+🎥 [Link Video 4](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-b77e6.appspot.com/o/Short%20The%20Brave%20Heart.mp4?alt=media&token=3e6ba0c2-dd06-4ffe-bd9f-7e24bbed9952) <br>
+🌠 [Link Logo](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-b77e6.appspot.com/o/Logo%20The%20Galaxy.png?alt=media&token=f2756f4a-fcfc-4534-a4b8-4825bf0ae37b) <br>
