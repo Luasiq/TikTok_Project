@@ -28,7 +28,7 @@ O projeto é um clone do TikTok para exibição de vídeos. <br> Desafio propost
 
 - [Acesse o projeto finalizado, online](https://tiktok---jornada-b77e6.web.app/)
 
-## 🔖 Arquivos
+## 📁 Arquivos
 
 💿 [Link Vinil](https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/vinil.png?t=2023-05-22T19%3A39%3A28.772Z) <br>
 🎥 [Link Video 1](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-b77e6.appspot.com/o/Short%20End%20Of%20The%20Journey.mp4?alt=media&token=64822407-2983-4a07-bd49-6fe34eb5b109) <br>
